@@ -32,7 +32,7 @@ export default function Login() {
     }
 
     toast.success('Login successful!');
-    router.push('/feed');
+    router.push('/my-recipes');
     setLoading(false);
   };
 
