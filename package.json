@@ -1,0 +1,31 @@
+{
+  "name": "my-recipe-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/supabase-js": "latest",
+    "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "framer-motion": "^12.0.6",
+    "next": "latest",
+    "react": "latest",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "latest",
+    "react-icons": "^5.4.0",
+    "react-toastify": "^11.0.3",
+    "stripe": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.8",
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.1.8",
+    "typescript": "5.7.3"
+  }
+}
